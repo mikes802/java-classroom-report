@@ -4,7 +4,7 @@ This is the Java project I submitted for my Java Programmer course at Central Mi
 I used the following to complete this project:
 
 - An `abstract` class and classes that extend this class (`abstraction` & `inheritance`)
-- No argument `constructors` and constructors that use parameters (`overloading`)
+- No-argument `constructors` and constructors that use parameters (`overloading`)
 - `Packages` to organize code
 - `Getter` and `setter` methods that map to private fields (`encapsulation`)
 - `Interface implementation` and overriding to put constraints on information entered
