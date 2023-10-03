@@ -1,5 +1,5 @@
 # Java Classroom Report
-This is the Java project I submitted for my Java Programmer course at Central Michigan University. I did this using Eclipse. It asks for user input for classroom information and ultimately creates a report containing the classroom number, teacher and subject, and list of students with their ID's and final grades.
+This is the Java project I submitted for my Java Programmer course at Central Michigan University. I did this using Eclipse. It asks for user input for classroom information and ultimately creates a report of classroom numbers, teachers and subjects, and list of students with their ID's and final grades.
 
 I used the following to complete this project:
 
